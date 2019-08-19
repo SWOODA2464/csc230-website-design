@@ -1,0 +1,9 @@
+
+
+.jumbotron {
+    background-color: #000000;
+}
+
+.jumbotron .display-4 {
+    color: red;
+}
