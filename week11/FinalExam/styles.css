@@ -1,0 +1,43 @@
+body {
+    font-family: sans-serif,Verdana, Geneva, Tahoma, sans-serif;
+    color: black;
+    font-size: 16;
+    width: 85%;
+    margin: auto;
+}
+
+header h1 {
+    font-size: 36pt;
+    margin-top: 35px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    padding-top: 15px;
+    padding-bottom: 0px;
+    padding-left: 15px;
+    padding-right: 0px;
+    background-color: white; 
+}
+
+header h3 {
+    font-size: 24pt;
+    margin: 0px;
+    padding-top: 0px;
+    padding-bottom: 15px;
+    padding-left: 15px;
+    padding-right: 0px;
+    background-color: white;
+}
+
+h1 {
+    font-family: arial;
+    font-size: 22pt;
+    text-align: left;
+    letter-spacing: 2px;
+    margin: 0px;
+    padding-top: 15px;
+    padding-bottom: 0px;
+    padding-left: 0px;
+    padding-right: 15px;
+    background-color: grey;
+}
