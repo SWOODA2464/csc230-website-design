@@ -1,0 +1,10 @@
+/* body styles */
+
+p {
+    font-family: bold, sans sans-serif;
+    
+}
+
+p.centered-text {
+    text-align: center;
+ }
