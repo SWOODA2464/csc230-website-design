@@ -16,17 +16,17 @@ header h1 {
     padding-bottom: 0px;
     padding-left: 15px;
     padding-right: 0px;
-    color: white; 
+    color: black; 
 }
 
-header h3 {
+header h2 {
     font-size: 24pt;
     margin: 0px;
     padding-top: 0px;
     padding-bottom: 15px;
     padding-left: 15px;
     padding-right: 0px;
-    color: white;
+    color: black;
 }
 
 h1 {
@@ -39,14 +39,14 @@ h1 {
     padding-bottom: 0px;
     padding-left: 0px;
     padding-right: 15px;
-    color: darkblue;
+    color: black;
 }
 
 h3 {
     font-family: Arial;
     font-size: 16pt;
     text-align: left;
-    color: darkblue;
+    color: black;
     
 }
 
