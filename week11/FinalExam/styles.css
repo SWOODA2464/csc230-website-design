@@ -46,7 +46,8 @@ h3 {
     font-family: Arial;
     font-size: 16pt;
     text-align: left;
-    color: darkviolet;
+    color: darkblue;
+    
 }
 
 p {
@@ -55,15 +56,32 @@ p {
 }
 
 a:hover {
-    color: blue;
+    color: darkviolet;
+}
+
+section {
+  padding-top: 15px;
+  padding-bottom: 15px;
+  padding-left: 15px;
+  padding-right: 15px;
 }
 
 table {
-    border: none;
-    padding-top: 2px;
-    padding-bottom: 2px;
-    padding-left: 5px;
-    padding-right: 5px;
-    width: 90%;
-    margin-left: 30px;
+  text-align: left;
+  color: black;
+  position: right;
+}
+
+td.centered-text {
+    text-align: center;
+}
+
+td.centered-text {
+    font-family: bold, sans-serif;
+    background-color:grey;
+}
+
+td.centered-text {
+  grid-row-start: 1;
+  grid-row-end: 2;
 }
